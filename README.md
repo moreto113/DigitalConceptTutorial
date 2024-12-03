@@ -5,4 +5,3 @@ This project is an assignment giving a tutorial for how to use Scalable Vector G
 1. [Introduction](intro.md)
 2. [Tools and Setup](tools-and-setup.md)
 3. [Final Code](final-code.md)
-4. [Conclusion](conclusion.md)
