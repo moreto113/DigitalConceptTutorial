@@ -1,5 +1,5 @@
 <h2>Creating a Photo with SVG</h2>
-**By Michael Oreto**
+By Michael Oreto
 <h2>Summary</h2>
 This project is an assignment giving a tutorial for how to use Scalable Vector Graphics, specifically to make a sunset over mountains.
 
