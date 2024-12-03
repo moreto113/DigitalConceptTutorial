@@ -24,4 +24,4 @@
    - Open your text editor and create a new file named `index.html` inside your project folder.
 
 
-[Previous: Introduction](introduction.md) | [Next: Final Code](final-code.md)
+[Previous: Introduction](intro.md) | [Next: Final Code](final-code.md)
